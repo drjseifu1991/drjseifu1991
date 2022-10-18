@@ -10,7 +10,7 @@
 
 
 ### :monocle_face: More About Me:
-* 🔭   I’m currently trying to build my startup, a software farm called [Merahi Technologies](www.merahitechnologies.com)
+* 🔭   I’m currently trying to build my startup, a software farm called [Merahi Technologies](merahitechnologies.com)
 * 🔍   Find all my socials, contacts, and more on my personal portfolio site [LinkedIn](https://www.linkedin.com/in/drjseifu1991/)
 * 👨🏻‍💻   Most of my projects are available on [Github](www.github.com/drjseifu1991)
 * 💬   [Ask me](Derejeseifu3030@gmail.com) about anything tech related, I am happy to help
