@@ -3,7 +3,7 @@
 <div style="background-color: rgb(248,248,248); display: inline-block; margin: 20px 0%; width: 100%; border-top: 1px solid rgb(221, 221, 221); border-bottom: 1px solid rgb(221, 221, 221); padding-bottom: 3%; position: relative;" class="yap_ad">
     <div style="float:left !important;width:48% !important; margin: 0 2% !important; padding: 2% 0;" class="yap_img_cont">
         <a href="{click_url}" style="display:block;" target="_blank">
-        <img src="./github-header-image (1).png" style="width: 100% !important; background-size: cover !important; max-width:100%;" data-yap-imgtype="default" alt="title" class="yap_ad_img"> </a>
+        <img src="./github-header-image (2).png" style="width: 100% !important; background-size: cover !important; max-width:100%;" data-yap-imgtype="default" alt="title" class="yap_ad_img"> </a>
     </div>
 
 </div>
