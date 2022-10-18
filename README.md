@@ -32,7 +32,7 @@
    <img style="display: inline; width: 49%;" src="https://github-readme-stats.vercel.app/api/pin/?username=drjseifu1991&repo=Fake-news-detector-AI-project&theme=radical&layout=compact"/>
 </div>
 
-
+##  Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=drjseifu1991&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
