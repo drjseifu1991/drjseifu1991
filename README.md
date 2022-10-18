@@ -18,7 +18,7 @@
 * 📝   Checkout my [resume](https://www.notion.so/deux/Dereje-Seifu-UX-UI-Designer-8d0761cf3539495588aaacd6c147ceee)
 * 🖌️   Look at my UX/UI design portfolio  [Deux](https://www.notion.so/deux/Dereje-Seifu-UX-UI-Designer-8d0761cf3539495588aaacd6c147ceee)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=drjseifu1991&theme=radical)](https://github.com/asdsda/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=drjseifu1991&theme=radical&layout=compact")](https://github.com/asdsda/github-readme-stats)
 <img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=drjseifu1991&theme=radical&layout=compact"/>
 
 
