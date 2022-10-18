@@ -22,7 +22,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drjseifu1991&theme=radical&layout=compact) -->
 <div style="display: flex; flex-direction: row; width: 100%; justify-content: space-between">
-    <img style="display: inline; width: 46%;" src="https://github-readme-stats.vercel.app/api?username=drjseifu1991&theme=radical&layout=compact"/>
+    <img style="display: inline; width: 48%;" src="https://github-readme-stats.vercel.app/api?username=drjseifu1991&theme=radical&layout=compact"/>
     <img style="display: inline; width: 44%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=drjseifu1991&theme=radical&layout=compact"/>
 </div>
 
