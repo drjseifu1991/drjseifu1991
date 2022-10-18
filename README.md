@@ -21,9 +21,9 @@
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=drjseifu1991&theme=radical&layout=compact)](https://github.com/asdsda/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drjseifu1991&theme=radical&layout=compact) -->
-<div style="display: flex; flex-direction: row; width: 100%">
-    <img style="display: inline; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=drjseifu1991&theme=radical&layout=compact"/>
-    <img style="display: inline; width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=drjseifu1991&theme=radical&layout=compact"/>
+<div style="display: flex; flex-direction: row; width: 100%; justify-content: space-between">
+    <img style="display: inline; width: 47%;" src="https://github-readme-stats.vercel.app/api?username=drjseifu1991&theme=radical&layout=compact"/>
+    <img style="display: inline; width: 43%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=drjseifu1991&theme=radical&layout=compact"/>
 </div>
 
 
