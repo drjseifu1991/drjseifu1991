@@ -28,7 +28,7 @@
 
 ## 🗂️ Highlighted Projects
 <div style="display: flex; flex-direction: row; width: 100%; justify-content: space-evenly;">
-   <img style="display: inline; width: 50%;" src="https://github-readme-stats.vercel.app/api/pin/?username=drjseifu1991&repo=Fake-news-detector-AI-project&theme=gray&layout=compact"/>
+   <img style="display: inline; width: 49%;" src="https://github-readme-stats.vercel.app/api/pin/?username=drjseifu1991&repo=Fake-news-detector-AI-project&theme=dark-dimmed&layout=compact"/>
    <img style="display: inline; width: 49%;" src="https://github-readme-stats.vercel.app/api/pin/?username=drjseifu1991&repo=Fake-news-detector-AI-project&theme=gray&layout=compact"/>
 </div>
 
