@@ -9,6 +9,8 @@
 </div>
 
 
+I am Software Engineer and UX/UI Designer. Expert in Fullstack developer and UX/UI Design. I like to design and develop user-centric digital applications. My specialties include ReactJS, VueJS, TypeScript, NodeJS, ExpressJS, ReactNative, Flutter, Figma, Adobe XD.My goal is to make my clients happy by providing them with the perfect digital product designs that meet their needs. Feel free to contact me for your project!
+
 ### :monocle_face: More About Me:
 * 🔭   I’m currently trying to build my startup, a software farm called [Merahi Technologies](https://www.merahitechnologies.com)
 * 🔍   Find all my socials, contacts, and more on my personal portfolio site [LinkedIn](https://www.linkedin.com/in/drjseifu1991/)
