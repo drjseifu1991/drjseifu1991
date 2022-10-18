@@ -13,7 +13,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=drjseifu1991&theme=radical)](https://github.com/asdsda/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drjseifu1991&theme=radical&layout=compact"/>
-<!-- ![Top Langs](https://github-readme-top-langs.vercel.app/api/?username=derejeseifu1991&theme=tokyonight)(https://github.com/asdsda/github-readme-top-langs) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=drjseifu1991&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
