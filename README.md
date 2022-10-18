@@ -10,10 +10,10 @@
 
 
 ### :monocle_face: More About Me:
-* 🔭   I’m currently trying to build my startup, a software farm called [Merahi Technologies](merahitechnologies.com)
+* 🔭   I’m currently trying to build my startup, a software farm called [Merahi Technologies](https://www.merahitechnologies.com)
 * 🔍   Find all my socials, contacts, and more on my personal portfolio site [LinkedIn](https://www.linkedin.com/in/drjseifu1991/)
-* 👨🏻‍💻   Most of my projects are available on [Github](www.github.com/drjseifu1991)
-* 💬   [Ask me](Derejeseifu3030@gmail.com) about anything tech related, I am happy to help
+* 👨🏻‍💻   Most of my projects are available on [Github](https://www.github.com/drjseifu1991)
+* 💬   [Ask me](mailto:Derejeseifu3030@gmail.com) about anything tech related, I am happy to help
 * 📫   Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/drjseifu1991/)
 * 📝   Checkout my [resume](https://www.notion.so/deux/Dereje-Seifu-UX-UI-Designer-8d0761cf3539495588aaacd6c147ceee)
 * 🖌️   Look at my UX/UI design portfolio  [Deux](https://www.notion.so/deux/Dereje-Seifu-UX-UI-Designer-8d0761cf3539495588aaacd6c147ceee)
