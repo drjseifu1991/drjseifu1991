@@ -9,7 +9,7 @@
 </div>
 
 
-### Hi there 👋
+### :monocle_face: More About Me:
 * 👂 My name is Dereje Seifu
 * 👩 Pronouns: ...
 * 🔭 I’m currently working on ...
