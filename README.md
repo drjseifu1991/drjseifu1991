@@ -7,9 +7,11 @@
     </div>
 
 </div>
+
 </br>
 An aspiring software engineer & UX/UI designer 🚀 with an immense thirst for learning new technologies 👌 I value teamwork and an inviting environment for expressing new ideas. I’m always intrigued by the new frameworks and technologies that the software industry brings forward.
 </br>
+
 ### :monocle_face: More About Me:
 * 🔭   I’m currently trying to build my startup, a software farm called [Merahi Technologies](https://www.merahitechnologies.com)
 * 🔍   Find all my socials, contacts, and more on my personal portfolio site [LinkedIn](https://www.linkedin.com/in/drjseifu1991/)
