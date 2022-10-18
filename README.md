@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+<!-- ![Header](./github-header-image.png) -->
 
 <div style="background-color: rgb(248,248,248); display: inline-block; margin: 20px 0%; width: 100%; border-top: 1px solid rgb(221, 221, 221); border-bottom: 1px solid rgb(221, 221, 221); padding-bottom: 3%; position: relative;" class="yap_ad">
     <div style="float:left !important;width:48% !important; margin: 0 2% !important; padding: 2% 0;" class="yap_img_cont">
