@@ -28,8 +28,8 @@
 
 ## 🗂️ Highlighted Projects
 <div style="display: flex; flex-direction: row; width: 100%; justify-content: space-evenly;">
-   <img style="display: inline; width: 54%;" src="https://github-readme-stats.vercel.app/api/pin/?username=drjseifu1991&repo=Fake-news-detector-AI-project"/>
-   <img style="display: inline; width: 54%;" src="https://github-readme-stats.vercel.app/api/pin/?username=drjseifu1991&repo=Covid-19-Informative-App"/>
+   <img style="display: inline; width: 49%;" src="https://github-readme-stats.vercel.app/api/pin/?username=drjseifu1991&repo=Fake-news-detector-AI-project"/>
+   <img style="display: inline; width: 49%;" src="https://github-readme-stats.vercel.app/api/pin/?username=drjseifu1991&repo=Covid-19-Informative-App"/>
 </div>
 
 
