@@ -26,8 +26,11 @@
     <img style="display: inline; width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=drjseifu1991&theme=radical&layout=compact"/>
 </div>
 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=drjseifu1991"/>
+## 🗂️ Highlighted Projects
+<div style="display: flex; flex-direction: row; width: 100%; justify-content: space-evenly;">
+   <img style="display: inline; width: 54%;" src="https://github-readme-stats.vercel.app/api/pin/?username=drjseifu1991&repo=Fake-news-detector-AI-project"/>
+   <img style="display: inline; width: 54%;" src="https://github-readme-stats.vercel.app/api/pin/?username=drjseifu1991&repo=Covid-19-Informative-App"/>
+</div>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=drjseifu1991&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
