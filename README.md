@@ -14,12 +14,12 @@ An aspiring software engineer & UX/UI designer 🚀 with an immense thirst for l
 
 ### :monocle_face: More About Me:
 * 🔭   I’m currently trying to build my startup, a software farm called [Merahi Technologies](https://www.merahitechnologies.com)
-* 🔍   Find all my socials, contacts, and more on my personal portfolio site [drjseifu.vercel.app](https://drjseifu.vercel.app/)
+* 🔍   Find all my socials, contacts, and more on my personal portfolio site [drjseifu.vercel.app](https://www.merahitechnologies.com)
 * 👨🏻‍💻   Most of my projects are available on [Github](https://www.github.com/drjseifu1991)
 * 💬   [Ask me](mailto:Derejeseifu3030@gmail.com) about anything tech related, I am happy to help
 * 📫   Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/drjseifu1991/)
-* 📝   Checkout my [resume](https://www.notion.so/deux/Dereje-Seifu-UX-UI-Designer-8d0761cf3539495588aaacd6c147ceee)
-* 🖌️   Look at my UX/UI design portfolio  [Deux](https://www.notion.so/deux/Dereje-Seifu-UX-UI-Designer-8d0761cf3539495588aaacd6c147ceee)
+* 📝   Checkout my [resume](https://www.merahitechnologies.com)
+* 🖌️   Look at my UX/UI design portfolio  [Deux](https://www.merahitechnologies.com)
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=drjseifu1991&theme=radical&layout=compact)](https://github.com/asdsda/github-readme-stats)
 
