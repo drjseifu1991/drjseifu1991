@@ -9,7 +9,7 @@
 </div>
 
 </br>
-An aspiring software engineer & UX/UI designer 🚀 with an immense thirst for learning new technologies 👌 I value teamwork and an inviting environment for expressing new ideas. I’m always intrigued by the new frameworks and technologies that the software industry brings forward.
+I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, and human-centered digital products.
 </br>
 
 ### :monocle_face: More About Me:
