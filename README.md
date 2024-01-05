@@ -9,7 +9,6 @@
 </div>
 
 </br>
-
 I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, and human-centered digital products.
 </br>
 
