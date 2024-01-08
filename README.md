@@ -20,7 +20,15 @@ I’m a software engineer specializing in building (and occasionally designing) 
 * 📝   Checkout my [resume](https://drjseifu.vercel.app/resume.pdf)
 * 🖌️   Look at my UX/UI design portfolio  [Behance](https://www.behance.net/derejeseifu)
 
+
+
+
+
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=drjseifu1991&theme=radical&layout=compact)](https://github.com/asdsda/github-readme-stats)
+
+
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drjseifu1991&theme=radical&layout=compact) -->
 ##  Stats
