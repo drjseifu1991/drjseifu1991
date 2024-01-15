@@ -25,17 +25,6 @@ I’m a software engineer specializing in building (and occasionally designing) 
     <img style="display: inline; width: 54%;" src="https://github-readme-stats.vercel.app/api?username=drjseifu1991&theme=radical&layout=compact"/>
     <img style="display: inline; width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=drjseifu1991&theme=radical&layout=compact"/>
 </div>
-
-
-
-
-
-
-
-
-
-
-
 ## 🗂️ Highlighted Projects
 <div style="display: flex; flex-direction: row; width: 100%; justify-content: space-evenly;">
    <img style="display: inline; width: 49%;" src="https://github-readme-stats.vercel.app/api/pin/?username=drjseifu1991&repo=Ecommerce-Admin-Dasboard-FrontEnd&theme=radical&layout=compact"/>
