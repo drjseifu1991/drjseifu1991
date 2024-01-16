@@ -9,6 +9,25 @@
 </div>
 </br>
 I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, and human-centered digital products.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </br>
 ### :monocle_face: More About Me:
 * 🔭   I’m currently trying to build my startup, a software company called [Merahi Technologies](https://www.merahitechnologies.com)
