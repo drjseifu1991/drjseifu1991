@@ -11,6 +11,18 @@ I’m a software engineer specializing in building (and occasionally designing) 
 </br>
 ### :monocle_face: More About Me:
 * 🔭   I’m currently trying to build my startup, a software company called [Merahi Technologies](https://www.merahitechnologies.com)
+
+
+
+
+
+
+
+
+
+
+
+
 * 🔍   Find all my socials, contacts, and more on my personal portfolio site [My Protofolio](https://drjseifu.vercel.app/)
 * 👨🏻‍💻   Most of my projects are available on [Github](https://www.github.com/drjseifu1991)
 * 💬   [Ask me](mailto:Derejeseifu3030@gmail.com) about anything tech related, I am happy to help
