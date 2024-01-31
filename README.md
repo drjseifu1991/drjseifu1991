@@ -19,19 +19,6 @@ I’m a software engineer specializing in building (and occasionally designing) 
 * 🖌️   Look at my UX/UI design portfolio  [Behance](https://www.behance.net/derejeseifu)
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=drjseifu1991&theme=radical&layout=compact)](https://github.com/asdsda/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drjseifu1991&theme=radical&layout=compact) -->
-
-
-
-
-
-
-
-
-
-
-
-
-
 ##  Stats
 <div style="display: flex; flex-direction: row; width: 100%; justify-content: space-evenly;">
     <img style="display: inline; width: 54%;" src="https://github-readme-stats.vercel.app/api?username=drjseifu1991&theme=radical&layout=compact"/>
