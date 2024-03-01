@@ -6,14 +6,6 @@
         <img src="./github-header-image (3).png" style="width: 100% !important; background-size: cover !important; max-width:100%;" data-yap-imgtype="default" alt="title" class="yap_ad_img"> </a>
     </div>    
 </div>
-
-
-
-
-
-
-
-
 </br>
 I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, and human-centered digital products.
 </br>
