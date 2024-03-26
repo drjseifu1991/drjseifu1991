@@ -4,13 +4,7 @@
     <div style="float:left !important;width:48% !important; margin: 0 2% !important; padding: 2% 0;" class="yap_img_cont">
         <a href="{click_url}" style="display:block;" target="_blank">
         <img src="./github-header-image (3).png" style="width: 100% !important; background-size: cover !important; max-width:100%;" data-yap-imgtype="default" alt="title" class="yap_ad_img"> </a>
-    </div>   
-
-
-
-
-
-         
+    </div>      
 </div>
 </br>
 I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, and human-centered digital products.
